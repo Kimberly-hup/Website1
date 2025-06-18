@@ -1,0 +1,47 @@
+#contenido2{
+    width: 899px; 
+    margin:0 auto;
+}
+
+form{
+    font-size:14px; 
+    color:#0a0909;
+    border-radius:7px; 
+    background-color:#1b61db; 
+    border:1px dotted #131412; 
+    padding:20px;
+}
+
+fieldset{
+    border-radius:6px; 
+    border:1px dotted rgb(133, 59, 127); 
+    margin-bottom:15px; 
+    padding:0 20px; 
+}
+
+legend{ 
+    color:rgb(22, 21, 21); 
+    font-size:13px; 
+    margin-bottom:16px; 
+}
+
+input{
+    background-color:rgb(17, 16, 16); 
+    border-radius:4px; 
+    color:#264F96; 
+    font-size:16px; 
+    padding:3px 3px 3px 10px; 
+    outline: none; 
+}
+
+#boton_enviar{ 
+    padding:6px 30px; 
+    background-color:#2A477A; 
+    color:rgb(101, 198, 236); 
+    font-size:14px; 
+}
+
+#boton_enviar:hover{
+cursor:pointer; 
+background-color:#284370; 
+}
